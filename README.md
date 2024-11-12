@@ -21,3 +21,5 @@ To run this program:
 5. Once you have finished working in your virtual environment, type "deactivate" in terminal to deactivate your virtual environment.
 
 
+## 3. Running this program on replit
+This code will function the same on replit, the only difference is that you need to store the API key in the "Replit Secrets" section of your repl. So, we will NOT be creating a .env file in our repl, and we will NOT be installing and importing the python-dotenv/dotenv module.
