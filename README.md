@@ -22,4 +22,4 @@ To run this program:
 
 
 ## 3. Running this program on replit
-This code will function the same on replit (you can just copy it over), the only difference is that you need to store the API key in the "Replit Secrets" section of your repl. So, we will NOT be creating a .env file in our repl, and we will NOT be installing and importing the python-dotenv/dotenv module.
+This code will function the same on replit (you can just copy it over), the only difference is that you need to store the API key in the "Replit Secrets" section of your repl. **So, we will NOT be creating a .env file in our repl, and we will NOT be installing and importing the python-dotenv/dotenv module.**
